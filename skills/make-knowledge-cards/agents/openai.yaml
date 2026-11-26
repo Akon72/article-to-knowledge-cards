@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片"
+  short_description: "Turn source text into focused knowledge cards"
+  default_prompt: "使用 $make-knowledge-cards 将下面的原文整理为知识卡片。"
